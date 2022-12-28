@@ -1,0 +1,23 @@
+.title {
+ 
+    color: brown;
+}
+.button__list{
+     list-style: none;
+     display: flex;
+     margin: 0;
+     gap: 20px;
+     
+
+}
+.button{
+    width: 180px;
+     padding: 16px; 
+    font-size: 24px;
+    background-color:rgb(213, 212, 206);
+   cursor: pointer;
+    
+}
+.statistics__list{
+   list-style: none;  
+}

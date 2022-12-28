@@ -1,3 +1,7 @@
+import React from "react";
+import GiveFeedback from "./GiveFeedback/GiveFeedback"
+
+
 export const App = () => {
   return (
     <div
@@ -7,10 +11,11 @@ export const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
         fontSize: 40,
+       
         color: '#010101'
       }}
     >
-      React homework template
+     <GiveFeedback/>
     </div>
   );
 };
