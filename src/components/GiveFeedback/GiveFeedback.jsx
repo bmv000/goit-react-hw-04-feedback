@@ -97,8 +97,6 @@ class GiveFeedback extends React.Component {
 
 export default GiveFeedback;
 
-
-
 // в App
 
 // import React from "react";
@@ -113,7 +111,7 @@ export default GiveFeedback;
 //         justifyContent: 'center',
 //         alignItems: 'center',
 //         fontSize: 40,
-       
+
 //         color: '#010101'
 //       }}
 //     >

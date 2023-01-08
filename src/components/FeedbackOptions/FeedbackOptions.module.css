@@ -1,18 +1,15 @@
-.button__list{
-     list-style: none;
-     display: flex;
-    justify-content: center;
-     margin: 0;
-     gap: 20px;
-     
-
+.button__list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  gap: 20px;
 }
-.button{
-    width: 180px;
-     padding: 16px; 
-    border: none;
-    background-color:rgb(131, 130, 127);
-    color: aliceblue;
-   cursor: pointer;
-    
+.button {
+  width: 180px;
+  padding: 16px;
+  border: none;
+  background-color: rgb(131, 130, 127);
+  color: aliceblue;
+  cursor: pointer;
 }
